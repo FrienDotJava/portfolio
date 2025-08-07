@@ -1,0 +1,1 @@
+Repositories List: https://github.com/stars/FrienDotJava/lists/software-and-web-projects
